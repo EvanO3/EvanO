@@ -1,0 +1,51 @@
+body{
+    background-color:  #a28089;
+    font-family: "Times New Roman", Times, serif;
+
+    
+}
+.header, .Experience{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    width: 100%;
+   
+    box-shadow: 0 3px 4px rgba(0, 0, 0, .3);
+}
+
+.top-body-left{
+    margin-top:60px;
+    padding:10p;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.main-body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:50px;
+}
+
+.body-right{
+margin-top:50px;
+}
+
+
+
+li{
+    font-size:20px;
+    line-height: 1.5;
+}
+.part-2{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap:15px;
+}
+.technologies{
+    margin-top:30px;
+
+}
